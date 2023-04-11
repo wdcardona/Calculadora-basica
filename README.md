@@ -1,2 +1,2 @@
 # Calculadora-basica
-Calculadora basica por consola
+Calculadora basica que recibe datos por consola
